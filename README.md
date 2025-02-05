@@ -24,8 +24,8 @@ A projektben használt technológiák:
 1. **Klónozd a repository-t:**
 
    ```sh
-   git clone https://github.com/yourusername/healthcare-quiz-mern-backend.git
-   cd healthcare-quiz-mern-backend
+   git clone https://github.com/SziNo/questionnaire-backend.git
+   cd questionnaire-backend
    ```
 
 2. **Telepítsd a szükséges függőségeket:**
